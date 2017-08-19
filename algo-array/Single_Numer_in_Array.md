@@ -1,4 +1,4 @@
-#### [Leetcode-540] Single Element in a Sorted Array
+## [Leetcode-540] Single Element in a Sorted Array
 
 Given a sorted array consisting of only integers where every element appears twice except for one element which appears only once.
 
