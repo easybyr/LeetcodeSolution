@@ -1,12 +1,12 @@
-[Leetcode-540] Single Element in a Sorted Array
+#### [Leetcode-540] Single Element in a Sorted Array
 
 Given a sorted array consisting of only integers where every element appears twice except for one element which appears only once.
 
-Example:
-Input: [1, 1, 2, 3, 3, 4, 4, 8, 8]
-Output: 2
+>Example:
+>Input: [1, 1, 2, 3, 3, 4, 4, 8, 8]
+>Output: 2
 
-Note: You solution should run in O(logn) time and O(1) space.
+>Note: You solution should run in O(logn) time and O(1) space.
 
 ##### Solution
 ```
