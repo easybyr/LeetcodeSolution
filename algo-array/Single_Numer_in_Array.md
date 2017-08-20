@@ -24,7 +24,7 @@ public class Main {
         // Assume that nums is not empty.
         int i = 0;
         while (i < nums.length) {
-            // much attention to the order in if, cautious for out of range error.
+            // much attention to the order in if statement, cautious for out of range error.
             if (i == nums.length - 1 || nums[i] != nums[i + 1]) {
                 return nums[i];
             } else {
@@ -36,7 +36,7 @@ public class Main {
 
     // solution with O(logn) time complexity.
     public int singleElement(int[] nums) {
-            
+
     }
 }
 ```
