@@ -2,10 +2,12 @@
 Given a binary tree and a sum, determine if the tree has a path-to-leaf path such that adding up all the values along the path equals to the given sum.
 
 >For example: given the binary tree and sum = 22,
+>
 >            5
 >       4       8
 >    11       13    4
 >  7    2              1
+>  
 >return true, as there exist a root-to-left path 5->4->11->2, which sum is 22.
 
 #### Solution
